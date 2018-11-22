@@ -1,0 +1,115 @@
+@font-face {
+  font-family: "GT-Walsheim-Pro-Light";
+  src: url("../fonts/GT_Walsheim_Pro/GT-Walsheim-Pro-Light.eot"),
+       url("../fonts/GT_Walsheim_Pro/GT-Walsheim-Pro-Light.woff") format("woff"),
+       url("../fonts/GT_Walsheim_Pro/GT-Walsheim-Pro-Light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT-Walsheim-Pro-Regular";
+  src: url("../fonts/GT_Walsheim_Pro/GT-Walsheim-Pro-Regular.eot"),
+       url("../fonts/GT_Walsheim_Pro/GT-Walsheim-Pro-Regular.woff") format("woff"),
+       url("../fonts/GT_Walsheim_Pro/GT-Walsheim-Pro-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT-Walsheim-Pro-Bold";
+  src: url("../fonts/GT_Walsheim_Pro/GT-Walsheim-Pro-Bold.eot"),
+       url("../fonts/GT_Walsheim_Pro/GT-Walsheim-Pro-Bold.woff") format("woff"),
+       url("../fonts/GT_Walsheim_Pro/GT-Walsheim-Pro-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "GT-Walsheim-Pro-Regular", Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+#lookthru {
+  /* background-image: url(/assets/img/bg-cocacola-project.jpg); */
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  /* height: 100vh; */
+  margin-bottom: 0
+}
+
+#feature-section {
+  padding-top: 80px;
+  padding-bottom: 110px;
+  /* background-color: #d9d9d9; */
+}
+
+
+#description-section-1,
+#description-section-2 {
+  /* background: rgba(250,250,250,1);
+  background: -moz-linear-gradient(top, rgba(250,250,250,1) 0%, rgba(255,255,255,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(250,250,250,1)), color-stop(100%, rgba(255,255,255,1)));
+  background: -webkit-linear-gradient(top, rgba(250,250,250,1) 0%, rgba(255,255,255,1) 100%);
+  background: -o-linear-gradient(top, rgba(250,250,250,1) 0%, rgba(255,255,255,1) 100%);
+  background: -ms-linear-gradient(top, rgba(250,250,250,1) 0%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(to bottom, rgba(250,250,250,1) 0%, rgba(255,255,255,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#ffffff', GradientType=0 ); */
+  background-color: #eee;
+}
+
+
+#description-section-1 .description-text-wrapper {
+  /* background-color: #FFF; */
+  float: right;
+  max-width: 500px;
+  margin-right: 40px;
+}
+
+#description-section-1 .description-image-wrapper {
+  /* background-color: #000; */
+}
+
+
+#description-section-2 .description-text-wrapper {
+  /* background-color: #FFF; */
+  max-width: 500px;
+  margin-left: 40px;
+}
+
+#description-section-2 .description-image-wrapper {
+  /* background-color: #ffed00; */
+}
+
+#screenshots-section {
+  /* background: rgba(250,250,250,1);
+  background: -moz-linear-gradient(top, rgba(250,250,250,1) 0%, rgba(255,255,255,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(250,250,250,1)), color-stop(100%, rgba(255,255,255,1)));
+  background: -webkit-linear-gradient(top, rgba(250,250,250,1) 0%, rgba(255,255,255,1) 100%);
+  background: -o-linear-gradient(top, rgba(250,250,250,1) 0%, rgba(255,255,255,1) 100%);
+  background: -ms-linear-gradient(top, rgba(250,250,250,1) 0%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(to bottom, rgba(250,250,250,1) 0%, rgba(255,255,255,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#ffffff', GradientType=0 ); */
+}
+
+.heading {
+  padding-top: 40px;
+  padding-bottom: 28px;
+}
+
+.btn-primary {
+  background-color: #ffed00;
+  color: #000;
+  border: 0;
+}
+
+.btn-primary:hover {
+  background-color: #ffed00;
+  color: #000;
+}
