@@ -6,6 +6,7 @@ details: An event app for the AMAZE event that is also powered by the AR technol
   AR enables you to get access to media content scattered all over the event floor
   to get more information of the event or what’s coming.
 thumbnail: "/uploads/assets/img/media/amaze.png"
-categories: []
+categories:
+- portfolio
 
 ---
