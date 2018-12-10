@@ -6,13 +6,16 @@ fields:
 - type: text
   label: Layout
   name: layout
-  hidden: false
+  hidden: true
   config:
-    required: false
-  default: ''
+    required: true
+  default: portfolio
 - type: text
   name: title
   label: Title
+  hidden: false
+  config:
+    required: true
 - type: textarea
   name: details
   label: Details
