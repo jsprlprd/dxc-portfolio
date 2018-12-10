@@ -11,4 +11,4 @@ fields:
     required: true
   default: base
 pages:
-- _posts/test.md
+- _posts/2018-12-10-test.md
