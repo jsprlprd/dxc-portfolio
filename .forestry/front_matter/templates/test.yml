@@ -10,3 +10,5 @@ fields:
   config:
     required: true
   default: base
+pages:
+- _posts/test.md
