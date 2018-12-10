@@ -1,14 +1,31 @@
 ---
-label: test
+label: Portfolio
 hide_body: false
 is_partial: false
 fields:
 - type: text
   label: Layout
   name: layout
-  hidden: true
+  hidden: false
   config:
-    required: true
-  default: base
+    required: false
+  default: ''
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: details
+  label: Details
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
+    required: false
+- type: file
+  name: thumbnail
+  label: Thumbnail
+- type: tag_list
+  label: Categories
+  name: categories
 pages:
 - _posts/amaze-event-app.md
