@@ -7,6 +7,6 @@ details: An event app for the AMAZE event that is also powered by the AR technol
   to get more information of the event or what’s coming.
 thumbnail: "/uploads/assets/img/media/amaze.png"
 categories:
-- portfolio
+- work
 
 ---
