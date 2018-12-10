@@ -12,7 +12,7 @@ title: Work
     {% for portfolio in site.posts %}
       <a class="card border-0 shadow-sm" href="{{ portfolio.url }}">
         <div class="card-img-wrapper">
-          <img class="card-img" src="{{ site.baseurl }}/assets/img/app-covers/{{ portfolio.thumbnail-imageurl }}" alt="">
+          <img class="card-img" src="{{ site.baseurl }}{{ portfolio.thumbnail }}" alt="">
         </div>
         <div class="card-body">
           <h6 class="card-title">{{ portfolio.title }}</h6>
