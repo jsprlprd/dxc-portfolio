@@ -10,5 +10,3 @@ fields:
   config:
     required: true
   default: base
-pages:
-- _posts/2018-12-10-test.md
