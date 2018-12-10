@@ -10,7 +10,7 @@ title: Work
   </div>
   <div class="card-columns">
     {% for portfolio in site.posts %}
-      <a class="card border-0 shadow-sm" href="{{ portfolio.url }}">
+      <a class="card border-0 shadow-sm" href="{{ site.baseurl }}{{ portfolio.url }}">
         <div class="card-img-wrapper">
           <img class="card-img" src="{{ site.baseurl }}{{ portfolio.thumbnail }}" alt="">
         </div>
