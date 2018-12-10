@@ -9,14 +9,14 @@ title: Work
     <h1 class="heading-title">Our Work</h1>
   </div>
   <div class="card-columns">
-    {% for portfolio in site.posts %}
-      <a class="card border-0 shadow-sm" href="{{ portfolio.url }}">
+    {% for work in site.work %}
+      <a class="card border-0 shadow-sm" href="{{ work.slug }}">
         <div class="card-img-wrapper">
-          <img class="card-img" src="{{ site.baseurl }}/assets/img/app-covers/{{ portfolio.thumbnail-imageurl }}" alt="">
+          <img class="card-img" src="{{ site.baseurl }}/assets/img/app-covers/{{ work.thumbnail-imageurl }}" alt="">
         </div>
         <div class="card-body">
-          <h6 class="card-title">{{ portfolio.title }}</h6>
-          <p class="card-text">{{ portfolio.details }}</p>
+          <h6 class="card-title">{{ work.title }}</h6>
+          <p class="card-text">{{ work.details }}</p>
         </div>
       </a>
     {% endfor %}

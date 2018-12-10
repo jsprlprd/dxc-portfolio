@@ -46,3 +46,8 @@ plugins:
 permalink: /:categories/:title:output_ext
 
 port: 1105
+
+collections:
+  work:
+    output: true
+    permalink: /work/:path/
