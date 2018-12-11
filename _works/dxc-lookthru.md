@@ -11,26 +11,26 @@ thumbnail: ''
 <div id="lookthru">
   <div class="container">
     <!-- <div class="mb-5">
-      <img src="{{ site.baseurl }}/assets/img/dxc_logo_hz_wht-01.svg" alt="" width="220">
+      <img src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/dxc_logo_hz_wht-01.svg" alt="" width="220">
     </div> -->
     <div class="mb-5">
-      <img src="{{ site.baseurl }}/assets/img/Look Thru Logo.png" alt="" width="280">
+      <img src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/Look Thru Logo.png" alt="" width="280">
     </div>
     <a class="btn btn-primary" href=""><i class="fab fa-apple"></i> Download for iOS</a>
     <div class="d-none d-md-block">
       <picture style="/* margin-bottom: -88px; */position: absolute;left: calc(50% + 190px);bottom: -26px;">
-        <source media="(min-width: 1280px)" srcset="{{ site.baseurl }}/assets/img/model-right-xl.png">
-        <source media="(min-width: 1120px)" srcset="{{ site.baseurl }}/assets/img/model-right-lg.png">
-        <source media="(min-width: 992px)" srcset="{{ site.baseurl }}/assets/img/model-right-md.png">
-        <source media="(min-width: 768px)" srcset="{{ site.baseurl }}/assets/img/model-right-sm.png">
-        <img src="{{ site.baseurl }}/assets/img/model-right.png" alt="" style="width:auto;">
+        <source media="(min-width: 1280px)" srcset="{{ site.baseurl }}/assets/img/works/dxc-lookthru/model-right-xl.png">
+        <source media="(min-width: 1120px)" srcset="{{ site.baseurl }}/assets/img/works/dxc-lookthru/model-right-lg.png">
+        <source media="(min-width: 992px)" srcset="{{ site.baseurl }}/assets/img/works/dxc-lookthru/model-right-md.png">
+        <source media="(min-width: 768px)" srcset="{{ site.baseurl }}/assets/img/works/dxc-lookthru/model-right-sm.png">
+        <img src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/model-right.png" alt="" style="width:auto;">
       </picture>
       <picture style="/* margin-bottom: -88px; */position: absolute;right: calc(50% + 190px);bottom: -26px;">
-        <source media="(min-width: 1280px)" srcset="{{ site.baseurl }}/assets/img/model-left-xl.png">
-        <source media="(min-width: 1120px)" srcset="{{ site.baseurl }}/assets/img/model-left-lg.png">
-        <source media="(min-width: 992px)" srcset="{{ site.baseurl }}/assets/img/model-left-md.png">
-        <source media="(min-width: 768px)" srcset="{{ site.baseurl }}/assets/img/model-left-sm.png">
-        <img src="{{ site.baseurl }}/assets/img/model-left.png" alt="" style="width:auto;">
+        <source media="(min-width: 1280px)" srcset="{{ site.baseurl }}/assets/img/works/dxc-lookthru/model-left-xl.png">
+        <source media="(min-width: 1120px)" srcset="{{ site.baseurl }}/assets/img/works/dxc-lookthru/model-left-lg.png">
+        <source media="(min-width: 992px)" srcset="{{ site.baseurl }}/assets/img/works/dxc-lookthru/model-left-md.png">
+        <source media="(min-width: 768px)" srcset="{{ site.baseurl }}/assets/img/works/dxc-lookthru/model-left-sm.png">
+        <img src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/model-left.png" alt="" style="width:auto;">
       </picture>
     </div>
   </div>
@@ -41,7 +41,7 @@ thumbnail: ''
     <div class="row">
       <div class="col-sm-12 col-lg-10 offset-lg-1">
         <div class="mb-4">
-          <img src="{{ site.baseurl }}/assets/img/Coca-Cola_logo.svg" alt="" width="220">
+          <img src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/Coca-Cola_logo.svg" alt="" width="220">
         </div>
         <h1 class="h3" style="color: #f70000;">An augmented reality project for Coca-Cola.</h1>
         <p class="lead mb-0">This project aims to showcase the team’s capabilities on 3D asset creation, Unity and ARKit development, and User Experience design for augmented reality.</p>
@@ -97,25 +97,25 @@ thumbnail: ''
           <p>Use the save button so capture screenshots. Share the image with your teammates and colleagues using any photo-sharing app.</p>
           <ol class="list-unstyled list-inline mb-0 d-none d-md-block">
             <li class="list-inline-item active" data-target="#carousel" data-slide-to="0">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-1.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-1.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="1">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-2.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-2.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="2">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-3.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-3.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="3">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-4.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-4.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="4">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-5.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-5.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="5">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-6.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-6.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="6">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-7.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-7.png" alt="" width="48">
             </li>
           </ol>
         </div>
@@ -124,25 +124,25 @@ thumbnail: ''
         <div id="carousel" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner text-center">
             <div class="carousel-item active">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/creation-1.png" alt="" width="282">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/creation-1.png" alt="" width="282">
             </div>
             <div class="carousel-item">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/creation-2.png" alt="" width="282">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/creation-2.png" alt="" width="282">
             </div>
             <div class="carousel-item">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/creation-3.png" alt="" width="282">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/creation-3.png" alt="" width="282">
             </div>
             <div class="carousel-item">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/creation-4.png" alt="" width="282">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/creation-4.png" alt="" width="282">
             </div>
             <div class="carousel-item">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/creation-5.png" alt="" width="282">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/creation-5.png" alt="" width="282">
             </div>
             <div class="carousel-item">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/creation-6.png" alt="" width="282">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/creation-6.png" alt="" width="282">
             </div>
             <div class="carousel-item">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/creation-7.png" alt="" width="282">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/creation-7.png" alt="" width="282">
             </div>
           </div>
           <!-- <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
@@ -155,25 +155,25 @@ thumbnail: ''
           </a> -->
           <ol class="list-unstyled list-inline mb-0 mt-5 d-block d-md-none">
             <li class="list-inline-item" data-target="#carousel" data-slide-to="0" class="active">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-1.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-1.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="1">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-2.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-2.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="2">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-3.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-3.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="3">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-4.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-4.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="4">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-5.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-5.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="5">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-6.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-6.png" alt="" width="48">
             </li>
             <li class="list-inline-item" data-target="#carousel" data-slide-to="6">
-              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/thumb-7.png" alt="" width="48">
+              <img class="img-fluid" src="{{ site.baseurl }}/assets/img/works/dxc-lookthru/thumb-7.png" alt="" width="48">
             </li>
           </ol>
         </div>
