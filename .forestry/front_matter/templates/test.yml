@@ -1,5 +1,5 @@
 ---
-label: Portfolio
+label: Works
 hide_body: false
 is_partial: false
 fields:
@@ -9,7 +9,7 @@ fields:
   hidden: true
   config:
     required: true
-  default: portfolio
+  default: works
 - type: text
   name: title
   label: Title
