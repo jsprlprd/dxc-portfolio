@@ -6,6 +6,5 @@ details: A revamp of the room locator that includes an admin mapping system.
 thumbnail: "/assets/img/app-covers/gar.png"
 categories:
 - works
-published: false
 
 ---
