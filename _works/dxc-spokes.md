@@ -9,6 +9,5 @@ details: SPOKES helps accelerate the speed of our business by enabling us to fin
 thumbnail: "/assets/img/app-covers/spokes.png"
 categories:
 - works
-published: false
 
 ---
