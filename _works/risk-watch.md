@@ -7,6 +7,5 @@ details: A mobile application that enables DXC-CBA account employees to easily r
 thumbnail: "/assets/img/app-covers/riskwatch.png"
 categories:
 - works
-published: false
 
 ---
