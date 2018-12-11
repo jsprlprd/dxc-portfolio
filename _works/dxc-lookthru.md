@@ -3,6 +3,9 @@ layout: works
 title: DXC LookThru
 categories:
 - works
+details: This project aims to showcase the team’s capabilities on 3D asset creation,
+  Unity and ARKit development, and User Experience design for augmented reality.
+thumbnail: ''
 
 ---
 <div id="lookthru">
