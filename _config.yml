@@ -48,6 +48,6 @@ permalink: /:categories/:title:output_ext
 port: 1105
 
 collections:
-  work:
+  works:
     output: true
-    permalink: /work/:path/
+    permalink: /works/:path/

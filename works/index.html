@@ -1,0 +1,26 @@
+---
+layout: default
+
+title: Work
+---
+
+<main class="container">
+  <div class="heading">
+    <h1 class="heading-title">Our Work</h1>
+  </div>
+  <div class="row">
+    {% for portfolio in site.posts reversed %}
+      <div class="col-3">
+        <a class="card border-0 mb-4 shadow-sm" href="{{ site.baseurl }}{{ portfolio.url }}">
+          <div class="card-img-wrapper">
+            <img class="card-img" src="{{ site.baseurl }}{{ portfolio.thumbnail }}" alt="">
+          </div>
+          <div class="card-body">
+            <h6 class="card-title">{{ portfolio.title }}</h6>
+            <p class="card-text">{{ portfolio.details }}</p>
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</main>
