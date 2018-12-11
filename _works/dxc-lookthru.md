@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: works
 title:  "DXC LookThru"
 categories: portfolio
 ---
