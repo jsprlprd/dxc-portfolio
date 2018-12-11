@@ -1,9 +1,10 @@
 ---
 layout: works
-title:  "DXC LookThru"
-categories: portfolio
----
+title: DXC LookThru
+categories:
+- works
 
+---
 <div id="lookthru">
   <div class="container">
     <!-- <div class="mb-5">
