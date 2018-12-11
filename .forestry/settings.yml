@@ -11,8 +11,8 @@ sections:
   label: Posts
   create: all
 - type: directory
-  path: _work
-  label: Work
+  path: _works
+  label: Works
   create: all
   match: "**/*"
   new_doc_ext: md
