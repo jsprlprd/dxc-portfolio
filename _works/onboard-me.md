@@ -12,6 +12,5 @@ details: The purpose of the Onboard Me project is to provide a solution that all
 thumbnail: "/assets/img/app-covers/obm.png"
 categories:
 - works
-published: false
 
 ---
