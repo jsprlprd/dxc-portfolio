@@ -7,5 +7,6 @@ details: An AR app built to do an immersive presentation of the HESTA's dashboar
 thumbnail: "/assets/img/app-covers/hesta.png"
 categories:
 - works
+- featured
 
 ---
