@@ -8,5 +8,6 @@ details: An AR showcasing the Good Beta Best campaign of CBA providing informati
 thumbnail: "/assets/img/app-covers/gbb.png"
 categories:
 - works
+- featured
 
 ---
