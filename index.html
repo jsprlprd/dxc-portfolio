@@ -11,9 +11,22 @@ title: Home Page
     <a class="btn btn-primary" href="{{ site.baseurl }}/works/">Our Work</a>
   </div>
 </div>
-<!-- 
+
 <main class="container">
-  {% for portfolio in site.posts %}
-    <a  href="{{ portfolio.url }}">{{ portfolio.title }}</a>
-  {% endfor %}
-</main> -->
+  <div class="row">
+    {% assign works = site.works | where: "categories", "featured" %}
+    {% for work in works %}
+      <div class="col-6">
+        <a class="card border-0 mb-4 shadow-sm" href="{{ site.baseurl }}{{ work.url }}">
+          <div class="card-img-wrapper">
+            <img class="card-img" src="{{ site.baseurl }}{{ work.thumbnail }}" alt="">
+          </div>
+          <div class="card-body">
+            <h6 class="card-title">{{ work.title }}</h6>
+            <p class="card-text">{{ work.details }}</p>
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</main>
