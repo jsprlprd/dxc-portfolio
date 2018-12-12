@@ -8,5 +8,6 @@ details: A mobile app that showcases all the project of UXM/BA on the Go especia
 thumbnail: "/assets/img/app-covers/bb.png"
 categories:
 - works
+- featured
 
 ---
