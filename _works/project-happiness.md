@@ -7,5 +7,6 @@ details: A mobile app that lets managers create and send surveys to their direct
 thumbnail: "/assets/img/app-covers/happiness.png"
 categories:
 - works
+- featured
 
 ---
