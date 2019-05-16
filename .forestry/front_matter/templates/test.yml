@@ -30,6 +30,7 @@ fields:
   label: Categories
   name: categories
 pages:
+- _works/amaze-event-app.md
 - _works/dxc-spokes.md
 - _works/duet-catalog-and-portfolio.md
 - _works/delta-beacon-poc.md
@@ -46,6 +47,5 @@ pages:
 - _works/get-a-room.md
 - _works/dxc-lookthru.md
 - _works/cmsf.md
-- _works/amaze-event-app.md
 - _works/dxc-sparks.md
 - _works/dxc-ar.md
